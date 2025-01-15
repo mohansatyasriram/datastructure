@@ -11,18 +11,18 @@ Feel free to explore the code and contribute if you have improvements or new imp
 ## Data Structures
 We have provided implementations of various data structures, including but not limited to:
 
--LinkedList
--Stack
--Queue
--Binary Tree
--Hash Table
--Graph
+- LinkedList
+- Stack
+- Queue
+- Binary Tree
+- Hash Table
+- Graph
 Each data structure has its own directory with source code and documentation, making it easy to explore and understand.
 ## Algorithms
 You can find a variety of algorithms in this repository, such as:
 
--Sorting algorithms
--Search algorithms
--Graph algorithms
--Dynamic programming
+- Sorting algorithms
+- Search algorithms
+- Graph algorithms
+- Dynamic programming
 Each algorithm is implemented with clear explanations and often includes sample usage.
