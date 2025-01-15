@@ -8,6 +8,21 @@ Feel free to explore the code and contribute if you have improvements or new imp
 ![1_s0s76D3yh7pYoZ3u-gQRPA](https://github.com/user-attachments/assets/1f87e035-2ce5-4d1f-9627-d008cbe56e24)
 ## Common Data Structures Operations
 ![nef2h](https://github.com/user-attachments/assets/38a9ef4e-49e4-4dff-a1da-46f2acaa257d)
+## Data Structures
+We have provided implementations of various data structures, including but not limited to:
 
+LinkedList
+Stack
+Queue
+Binary Tree
+Hash Table
+Graph
+Each data structure has its own directory with source code and documentation, making it easy to explore and understand.
+## Algorithms
+You can find a variety of algorithms in this repository, such as:
 
-
+Sorting algorithms
+Search algorithms
+Graph algorithms
+Dynamic programming
+Each algorithm is implemented with clear explanations and often includes sample usage.
